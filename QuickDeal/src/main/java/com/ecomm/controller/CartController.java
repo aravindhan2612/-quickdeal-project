@@ -151,6 +151,7 @@ public class CartController {
 			
 		}
 		System.out.print(grandTotal);
+		System.out.print("merge 123");
 		return grandTotal;
 	}
 		

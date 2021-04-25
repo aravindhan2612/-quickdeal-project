@@ -151,6 +151,7 @@ public class CartController {
 			
 		}
 		System.out.print("test"+grandTotal);
+		System.out.print("checking merge");
 		return grandTotal;
 	}
 		

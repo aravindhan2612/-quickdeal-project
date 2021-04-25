@@ -150,7 +150,7 @@ public class CartController {
 			count++;
 			
 		}
-		System.out.print(grandTotal);
+		System.out.print("test"+grandTotal);
 		return grandTotal;
 	}
 		
